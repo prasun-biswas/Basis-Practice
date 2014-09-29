@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\Harun\AddName\bin\Debug\AddName.exe.config
+C:\Users\PC21\Desktop\Harun\AddName\bin\Debug\AddName.exe
+C:\Users\PC21\Desktop\Harun\AddName\bin\Debug\AddName.pdb
+C:\Users\PC21\Desktop\Harun\AddName\obj\Debug\AddName.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\Harun\AddName\obj\Debug\AddName.Form1.resources
+C:\Users\PC21\Desktop\Harun\AddName\obj\Debug\AddName.Properties.Resources.resources
+C:\Users\PC21\Desktop\Harun\AddName\obj\Debug\AddName.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Harun\AddName\obj\Debug\AddName.exe
+C:\Users\PC21\Desktop\Harun\AddName\obj\Debug\AddName.pdb
