@@ -1,0 +1,1 @@
+c:\users\ashiq chaser\documents\visual studio 2013\Projects\StudentGradeApp\StudentGradeApp\bin\Debug\StudentGradeApp.exe.config
